@@ -1,6 +1,6 @@
 <div align="center">
   
-  ## **Framed Badges**
+  # **. ݁₊ ⊹ . ݁˖ . ݁Framed Badges. ݁₊ ⊹ . ݁˖ . ݁**
 
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmp4cnQzcDdtMXJzeGM3NG56NDJ3NmhoY2R3MHN6bWdvcXVhaHQ1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3diu2dFNpV8AnozJ3V/giphy.gif">
 
@@ -38,6 +38,7 @@ Clique para acessar uma categoria
     <br>
     Jaky🦈.
 </div>
+
 
 
 
